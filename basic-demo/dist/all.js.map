@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/index.js"],"names":["arrs","map","n"],"mappings":";;AAAA,IAAMA,OAAO,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAO,CAAP,EAAS,CAAT,CAAb;AACAA,KAAKC,GAAL,CAAS;AAAA,SAAKC,CAAL;AAAA,CAAT","file":"all.js","sourcesContent":["const arrs = [1,2,3,4,5];\r\narrs.map(n => n);"],"sourceRoot":"/source/"}
